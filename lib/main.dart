@@ -1,4 +1,4 @@
-//マスタープッシュ
+//devプッシュ
 import 'package:flutter/material.dart';
 
 void main() {
